@@ -19,38 +19,38 @@ To get started with practicing STL problems, follow these steps:
 ## Solutions
 
 ### Vector
-- [Problem C](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/C_C.cpp)
-- [Problem D](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/D_D.cpp)
-- [Problem E](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/E_E.cpp)
-- [Problem F](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/F_F.cpp)
-- [Problem L](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/L_L.cpp)
-- [Problem N](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/N_N.cpp)
-- [Problem O](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/O_O.cpp)
-- [Problem R](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/R_R.cpp)
-- [Problem S](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector/S_S.cpp)
+- [Problem C](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/C_C.cpp)
+- [Problem D](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/D_D.cpp)
+- [Problem E](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/E_E.cpp)
+- [Problem F](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/F_F.cpp)
+- [Problem L](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/L_L.cpp)
+- [Problem N](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/N_N.cpp)
+- [Problem O](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/O_O.cpp)
+- [Problem R](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/R_R.cpp)
+- [Problem S](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/vector/S_S.cpp)
 
 
 ### Map
-- [Problem B](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/B_B.cpp)
-- [Problem G](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/G_G.cpp)
-- [Problem H](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/H_H.cpp)
-- [Problem I](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/I_I.cpp)
-- [Problem J](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/J_J.cpp)
-- [Problem M](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/M_M.cpp)
-- [Problem T](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/T_T.cpp)
-- [Problem U](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/U_U.cpp)
-- [Problem V](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map/V_V.cpp)
+- [Problem B](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/B_B.cpp)
+- [Problem G](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/G_G.cpp)
+- [Problem H](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/H_H.cpp)
+- [Problem I](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/I_I.cpp)
+- [Problem J](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/J_J.cpp)
+- [Problem M](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/M_M.cpp)
+- [Problem T](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/T_T.cpp)
+- [Problem U](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/U_U.cpp)
+- [Problem V](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/map/V_V.cpp)
 
 ### Set
-- [Problem A](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/set/A_A.cpp)
+- [Problem A](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/set/A_A.cpp)
 
 ### Stack
-- [Problem P](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/stack/P_P.cpp)
+- [Problem P](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/stack/P_P.cpp)
 
 
 ### Queue
-- [Problem K](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/queue/K_K.cpp)
-- [Problem Q](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/queue/Q_Q.cpp)
+- [Problem K](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/queue/K_K.cpp)
+- [Problem Q](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/blob/main/queue/Q_Q.cpp)
 
 
 ## Contributing
