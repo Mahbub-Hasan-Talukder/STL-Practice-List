@@ -8,14 +8,13 @@ To get started with practicing STL problems, follow these steps:
 
 1. [STL Problem List](https://vjudge.net/contest/592062).
 
-2. Explore the categories:
+2. Need solutions? Explore the categories:
    - [Vector](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/vector)
    - [Map](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/map)
    - [Set](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/set)
    - [Stack](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/stack)
    - [Queue](https://github.com/Mahbub-Hasan-Talukder/STL-Practice-List/tree/main/queue)
 
-3. Click on the category you're interested in to view the list of problems.
 
 ## Categories
 
